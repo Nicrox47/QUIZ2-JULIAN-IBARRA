@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+<<<<<<< HEAD:QUIZ 2/relation-mapping-quiz2-completo/.idea/misc.xml
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -11,4 +12,6 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+=======
+>>>>>>> 05d6ad19eb3d9790a61a75898c6e0cbbea84460b:quiz2/.idea/misc.xml
 </project>
